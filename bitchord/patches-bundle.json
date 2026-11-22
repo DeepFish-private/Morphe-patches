@@ -3,5 +3,5 @@
   "description": "BitChord patches with a built-in WireGuard proxy for Proton VPN and custom settings.",
   "download_url": "https://github.com/DeepFish-private/Morphe-patches/releases/download/Bitchord/bitchord-wireguard-0.2.12.mpp",
   "signature_download_url": "",
-  "version": "0.2.12"
+  "version": "0.2.13"
 }
